@@ -1,0 +1,9 @@
+F:\SkyDrive\EmPubLite\app\build\intermediates\classes\debug
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b7d8c59977f5a85ec7e0a693cec92d2767e52c0c.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-06ed65caa17c1f5493448b5775d90f01ca509474.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-a8092840a8b72ca77451a11e8f5521ac71857196.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\eventbus-2.4.0-caa6fe3b6526e7c5b1b5e86a78f3a12b61fae4f0.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\retrofit-1.8.0-cb1a4b558deb1c570ebe4256d44261f2cbee49a7.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-52784a4c6365d04defb5d9b0441c844ff16b5113.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\gson-2.3.1-c474b39e20bdd483164f7362896da9a10966afd3.jar
+F:\SkyDrive\EmPubLite\app\build\intermediates\pre-dexed\debug\classes-9034ed0e89084d0c905436d4934a3827697afde6.jar

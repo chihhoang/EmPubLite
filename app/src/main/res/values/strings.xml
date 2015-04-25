@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmPub Lite</string>
+    <string name="quick">The quick brown fox...</string>
+    <string name="laughs">He who laughs last...</string>
+    <string name="b">This has <b>bold</b> in it.</string>
+    <string name="i">Whereas this has <i>italics</i>!</string>
+
+    <string name="help">Help</string>
+    <string name="about">About</string>
+
+    <string name="report_body">
+    <![CDATA[
+    <html>
+    <body>
+    <h1>TPS Report forL {{reportDate}}</h1>
+    <p>{{message}}</p>
+    <p>If you have any questions regarding this report, please
+    do <b>not</b> ask Mark Murphy.</p>
+    </body>
+    </html>
+    ]]>
+    </string>
+
+<!-- TODO: Remove or change this placeholder text -->
+
+
+</resources>
